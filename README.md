@@ -13,5 +13,6 @@ b) Check if it's a memory leak or normal load
 <img width="912" height="69" alt="image" src="https://github.com/user-attachments/assets/10ea8238-cffe-4eeb-aaaa-930efc7c0a30" />
 
 c) Kill/restart only that process without affecting other apache instances
+<br>
 <img width="429" height="65" alt="image" src="https://github.com/user-attachments/assets/fa65318b-ef88-4773-b298-558f5edacd09" />
 
